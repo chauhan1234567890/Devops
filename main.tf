@@ -10,5 +10,5 @@ resource "azurerm_resource_group" "rg-pc" {
 
 resource "azurerm_resource_group" "rg-priyanka" {
   name     = "rg-priyanka"
-  location = "centralindiagit"
+  location = "centralindia"
 }
