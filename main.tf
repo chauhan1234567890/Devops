@@ -12,3 +12,8 @@ resource "azurerm_resource_group" "rg-priyanka" {
   name     = "rg-priyanka"
   location = "centralindia"
 }
+
+resource "azurerm_resource_group" "rg-chauhan" {
+  name     = "rg-chauhan"
+  location = "west europe"
+}
